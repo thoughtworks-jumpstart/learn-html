@@ -19,6 +19,7 @@
 ![Exercise 3](ex3.png)
 
 ## Exercise 4
-* The form has no action
-* Focus on the structure of the html using the proper tags
+* The form has no action. Focus on the structure of the html using the proper tags
+* first name, last name, email and password are `REQUIRED` fields
+* Password should have `5-10` characters (Hint! google to find out how to implement this. No JS!)
 ![Exercise 4](ex4.png)
